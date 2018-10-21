@@ -1,0 +1,10 @@
+Adobe Photoshop CC 2017
+~/.wine/drive_c/Photoshop18/App/Ps/Required/Plug-ins/File Formats/
+
+Adobe Photoshop CC 2015
+~/.wine/drive_c/PhotoshopPortable/App/Photoshop/Required/Plug-Ins/File Formats/
+
+
+http://www.telegraphics.com.au/sw/product/ICOFormat
+ICOFormat-2.1b1-win32
+ICOFormat-2.1f1-win64
